@@ -1,0 +1,38 @@
+* {
+    box-sizing: border-box;
+}
+
+.navbar  {
+   overflow: hidden;
+   background-color:black;
+   position:fixed;
+   top: 0;
+   width: 100%;
+   
+   
+}
+.navbar a{
+   color: white;
+   text-decoration: none;
+   margin: 10px;
+   float: left;
+   display: block;
+
+}
+.container{
+    position: relative;
+    color: orange;
+    text-align: center; 
+     
+    margin-top: 38px;  
+}
+.text{
+    position: absolute;
+    top: 50%;
+    left: 40%;
+    font-size: 30px;
+
+}
+.testi{
+    
+}
